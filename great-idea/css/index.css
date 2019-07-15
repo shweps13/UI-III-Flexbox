@@ -93,7 +93,13 @@ h1, h2, h3, h4, h5 {
 	color: grey;
 	text-decoration: none;
 }
-.top .logo {
+.top a .logo {
+	/* background-color: blue;	 */
+	display: flex;
+	margin-right: 0%; 
+	width: 100%;
+}
+.top .logo1{
 	/* background-color: blue;	 */
 	display: flex;
 	margin-right: 5%; 
